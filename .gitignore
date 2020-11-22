@@ -1,0 +1,10 @@
+# Default ignored files
+/.idea/
+/target/
+*iml
+/out/
+/src/main/java/META-INF/MANIFEST.MF
+/src/main/resources/META-INF/MANIFEST.MF
+/*.s3db
+/*.log
+/production/
